@@ -1,0 +1,884 @@
+,name
+0,SNVI
+1,Zanella
+2,Koller
+3,Anasagasti
+4,AutoLatina
+5,Autoar
+6,Crespi
+7,Eniak
+8,Hispano-Argentina
+9,IAVA
+10,IAME
+11,IKA
+12,Sevel Argentina
+13,SIAM Di Tella
+14,ErAZ
+15,ACE EV Group
+16,Borland Racing Developments
+17,Bolwell
+18,Brabham Automotive
+19,Ford Australia
+20,General Motors Special Vehicles (GMSV)
+21,Elfin Sports Cars
+22,Ford Performance Vehicles (FPV)
+23,Giocattolo
+24,Holden
+25,KTM
+26,Magna Steyr
+27,Puch
+28,Tushek & Spigel
+29,Austro-Daimler
+30,Austro-Tatra
+31,Denzel
+32,Felber
+33,Libelle
+34,Lohner–Porsche
+35,Möve
+36,ÖAF
+37,MAN SE
+38,Steyr
+39,Steyr-Daimler-Puch
+40,AzSamand
+41,Ganja Auto Plant
+42,Nakhchivan Automobile Plant
+43,BMTF
+44,BelAZ
+45,BelGee
+46,MAZ
+47,MoAZ
+48,MZKT
+49,Neman
+50,Gillet
+51,Van Hool
+52,Auto-Mixte
+53,FN
+54,Imperia
+55,Métallurgique
+56,Minerva
+57,Nagant
+58,Pieper
+59,Agrale
+60,Comil
+61,Marcopolo
+62,Mascarello
+63,Neobus
+64,TAC
+65,Brasinca
+66,Busscar
+67,Dacon
+68,Engesa
+69,FNM
+70,Farus
+71,Gurgel
+72,HTT
+73,Hofstetter
+74,JPX
+75,Lobini
+76,Obvio!
+77,Puma
+78,Romi
+79,Santa Matilde
+80,Troller
+81,Vemag
+82,Bulgaralpine
+83,Bulgarrenault
+84,Moskvych
+85,Pirin-Fiat
+86,Sofia
+87,Bombardier
+88,Campagna
+89,Felino Corporation
+90,Intermeccanica
+91,INKAS
+92,New Flyer
+93,Nova Bus
+94,Prevost
+95,Terradyne
+96,Acadian
+97,Asüna
+98,Beaumont
+99,Bricklin
+100,Brooks
+101,Can-Am
+102,Dennis
+103,Derby
+104,Dupont
+105,Dynasty
+106,Envoy
+107,Frontenac
+108,Gray-Dort
+109,Hayes Trucks
+110,Manic
+111,McLaughlin
+112,Meteor
+113,Monarch
+114,Orion
+115,Pacific Trucks
+116,Passport
+117,Redpath
+118,Russell
+119,Studebaker
+120,ZENN
+121,Arcfox
+122,Aion
+123,Apex Motors
+124,BAIC
+125,Baojun
+126,BAW
+127,Bestune
+128,Brilliance
+129,BYD
+130,Changan
+131,Changhe
+132,Chery
+133,CNHTC
+134,Dongfeng
+135,Englon
+136,EuAuto
+137,Everus
+138,FAW
+139,Hongqi
+140,Foton
+141,GAC Fiat
+142,Geely
+143,Gonow
+144,Great Wall
+145,Hafei
+146,Haima
+147,Hanteng
+148,Hawtai
+149,Haval
+150,Heibao
+151,Higer
+152,JAC Motors
+153,Jiangling
+154,Jinbei
+155,Jonway
+156,Karry
+157,Landwind
+158,Leahead
+159,Lifan
+160,Li Auto
+161,Luxgen
+162,Nio
+163,Qoros
+164,Roewe
+165,SAIC
+166,Sehol
+167,Shacman
+168,Soueast
+169,Trumpchi
+170,Wuling
+171,Voyah
+172,Xpeng
+173,Yudo Auto
+174,Yutong
+175,Zhongtong Bus
+176,Zinoro
+177,Zotye
+178,ZX Auto
+179,DOK-ING
+180,Rimac
+181,Škoda
+182,Tatra
+183,Avia
+184,Kaipan
+185,MTX
+186,Praga
+187,Aero
+188,Jawa
+189,LIAZ
+190,Velorex
+191,Walter Fiat
+192,Marathon Motors Engineering
+193,Holland Car
+194,Valmet Automotive
+195,Electric Raceabout
+196,Toroidion
+197,Sisu Auto
+198,Aixam
+199,Alpine
+200,Auverland
+201,Bolloré
+202,Bugatti
+203,Citroën
+204,Exagon
+205,Hommell
+206,Ligier
+207,Microcar
+208,Méga
+209,Peugeot
+210,PGO
+211,Renault
+212,Venturi
+213,Aérocarène
+214,Bellanger
+215,Berliet
+216,Chenard-Walcker
+217,Decauville
+218,De Dion-Bouton
+219,Delage
+220,Delahaye
+221,Delaunay-Belleville
+222,Facel Vega
+223,Helicron
+224,Hommell
+225,Lorraine-Dietrich
+226,Matra
+227,Mors
+228,Panhard
+229,Rochet-Schneider
+230,Simca
+231,Talbot
+232,Talbot-Lago
+233,Alpina
+234,Apollo
+235,Artega
+236,Audi
+237,Bitter
+238,BMW
+239,Daimler Truck
+240,Fuso
+241,Isdera
+242,Lotec
+243,MAN
+244,Mercedes-Benz
+245,Multicar
+246,Neoplan
+247,Opel
+248,Ruf
+249,Porsche
+250,Setra
+251,Smart
+252,Volkswagen
+253,Wiesmann
+254,Adler
+255,AGA
+256,Auto Union
+257,AWS
+258,AWZ
+259,Barkas
+260,Borgward
+261,Brennabor
+262,Büssing
+263,Dauer
+264,DKW
+265,Glas
+266,Goliath
+267,Gumpert
+268,Hanomag
+269,Hansa
+270,Heinkel
+271,Horch
+272,Karmann
+273,Lloyd
+274,Maybach
+275,Melkus
+276,Messerschmitt
+277,NAG
+278,NSU
+279,Robur
+280,Simson
+281,Stoewer
+282,Tempo
+283,Trabant
+284,Wanderer
+285,Wartburg
+286,Zundapp
+287,ELVO
+288,Korres
+289,Namco
+290,Replicar Hellas
+291,Sfakianakis
+292,Tangalakis-Temax
+293,Alta
+294,Attica
+295,Autokinitoviomihania Ellados
+296,Automeccanica
+297,Balkania
+298,BET
+299,Biamax
+300,BIOMAN
+301,DIM
+302,MAVA-Renault
+303,MEBEA
+304,Neorion
+305,Pan-Car
+306,Theologou
+307,Ajanta Group
+308,Ashok Leyland
+309,Asia MotorWorks
+310,Atul Auto
+311,AVANI
+312,Bajaj
+313,Eicher
+314,Force
+315,Hindustan
+316,Hradyesh
+317,ICML
+318,KAL
+319,Mahindra
+320,Maruti Suzuki
+321,Omega Seiki Mobility
+322,Tara International
+323,Tata
+324,TVS
+325,Chinkara
+326,Hero
+327,Ideal Jawa
+328,Kinetic Engineering Limited
+329,Lohia Machinery
+330,Mopeds India Limited
+331,Premier
+332,Sipani
+333,Standard
+334,Swaraj Mazda
+335,TMC
+336,Alesbury
+337,Crosslé
+338,Shamrock (car)
+339,Bahman
+340,Iran Khodro
+341,Kish Khodro
+342,MVM
+343,Pars Khodro
+344,SAIPA
+345,Autocars
+346,Carmor
+347,Plasan
+348,Abarth
+349,Alfa Romeo
+350,Bremach
+351,Casalini
+352,Covini
+353,CTS
+354,DR Motor
+355,Ducati
+356,Ferrari
+357,Fiat
+358,Iso
+359,Italdesign
+360,Iveco
+361,Lancia
+362,Lamborghini
+363,Maserati
+364,Mazzanti
+365,Minardi
+366,Pagani
+367,Piaggio
+368,Pininfarina
+369,Vespa
+370,Zagato
+371,APIS
+372,Ansaldo
+373,Aquila
+374,A.S.A.
+375,A.T.S.
+376,Autobianchi
+377,Aurea
+378,Bandini
+379,Bertone
+380,Bizzarrini
+381,Ceirano
+382,Chiribiri
+383,Cisitalia
+384,Cizeta
+385,De Tomaso
+386,Diatto
+387,FCA
+388,F.L.A.G.
+389,Fornasari
+390,Innocenti
+391,Intermeccanica
+392,Iso Milano
+393,Isotta Fraschini
+394,Itala
+395,Junior
+396,Lambretta
+397,LMX
+398,Marca-Tre-Spade
+399,Moretti
+400,Nardi
+401,O.M.
+402,O.S.C.A.
+403,Qvale
+404,Scuderia Ferrari
+405,Rapid
+406,S.C.A.T.
+407,Siata
+408,S.P.A.
+409,Stanguellini
+410,Storero
+411,Vignale
+412,Volugrafo
+413,Zust
+414,Acura
+415,Aspark
+416,Autobacs Seven
+417,Daihatsu
+418,Dome
+419,GLM
+420,Hino
+421,Honda
+422,Infiniti
+423,Isuzu
+424,Kawasaki
+425,Lexus
+426,Mazda
+427,Mitsubishi Motors
+428,Mitsubishi Fuso
+429,Mitsuoka
+430,Nissan
+431,Subaru
+432,Suzuki
+433,Tommykaira
+434,Toyota
+435,UD Trucks
+436,Yamaha
+437,Asahi
+438,Autozam
+439,Datsun
+440,Eunos
+441,Ohta
+442,Otomo
+443,Prince
+444,Dartz
+445,Bufori
+446,DefTech
+447,Inokom
+448,Modenas
+449,Naza
+450,Perodua
+451,Proton
+452,DINA
+453,Mastretta
+454,VUHL
+455,Ramirez
+456,VAM
+457,Laraki
+458,Renault Somaca
+459,Fiat Somaca
+460,Burton
+461,Carver
+462,DAF
+463,Dakar
+464,Donkervoort
+465,Spijkstaal
+466,Spyker
+467,Stellantis
+468,Vandenbrink
+469,VDL Berkhof
+470,Vencer
+471,Anziel
+472,Saker Cars
+473,Trekka
+474,Pyeonghwa Motors
+475,Sungri Motors
+476,Samhung Motors
+477,Heavy Industries Taxila
+478,Sazgar
+479,United Auto Industries
+480,Adam Motor Company
+481,Dewan Farooque Motors
+482,Nexus Automotive
+483,Almazora Motors
+484,Del Monte Motors
+485,Sarao Motors
+486,Delta
+487,AMZ
+488,Arrinera
+489,Autosan
+490,Jelcz
+491,Solaris
+492,Ursus
+493,FSC Żuk
+494,FSM
+495,FSO
+496,FSR Tarpan
+497,Intrall
+498,Polski Fiat
+499,Star
+500,Syrena
+501,Warszawa
+502,ZSD Nysa
+503,Vinci
+504,Bravia
+505,Portaro
+506,UMM
+507,Edfor
+508,Dacia
+509,ROMAN
+510,ARO
+511,Oltcit
+512,Rocar
+513,Avtotor
+514,GAZ
+515,IZh
+516,Kamaz
+517,Lada
+518,LiAZ
+519,PAZ
+520,Sollers
+521,UAZ
+522,Amur
+523,Avtoframos
+524,Derways
+525,GAZ (Volga)
+526,Marussia
+527,Moskvitch
+528,Russo-Balt
+529,SeAZ
+530,SMZ
+531,TagAZ
+532,Yo-Mobile
+533,ZiL
+534,FAP
+535,FAS
+536,Ikarbus
+537,IMT
+538,Neobus
+539,Zastava
+540,IDA
+541,Yugo
+542,Advanced Automotive Design
+543,Perana Performance Group
+544,AAD
+545,CT&T United
+546,Daewoo Bus
+547,Genesis
+548,GM Korea
+549,Hyundai
+550,Kia
+551,Renault Samsung
+552,SsangYong
+553,Tata Daewoo
+554,Asia Motors
+555,Daewoo
+556,Keohwa
+557,Proto
+558,Saehan
+559,Samsung
+560,Shinjin
+561,Sibal
+562,Abadal
+563,Aspid
+564,Cupra
+565,GTA
+566,Irizar
+567,SEAT
+568,Spania
+569,Tauro
+570,Tramontana
+571,Uro
+572,Hispano Suiza
+573,Koenigsegg
+574,NEVS
+575,Polestar
+576,Scania
+577,Uniti
+578,Volvo Buses
+579,Volvo Cars
+580,Volvo Trucks
+581,Jösse Car
+582,Saab
+583,Leblanc
+584,Rinspeed
+585,Sbarro
+586,Enzmann
+587,Martini
+588,Monteverdi
+589,Pic-Pic
+590,Soletta
+591,CMC
+592,Luxgen
+593,Yulon
+594,Thai Rung
+595,BMC
+596,Diardi
+597,Erkunt
+598,Etox
+599,Fiat-Tofaş
+600,FNSS
+601,Guleryuz
+602,Karsan
+603,Otokar
+604,Özaltin
+605,Pancar Motor
+606,Temsa
+607,TOGG
+608,Anadol
+609,Devrim
+610,Bohdan
+611,Etalon
+612,KrAZ
+613,LAZ
+614,ZAZ
+615,LuAZ
+616,W Motors
+617,Ajlani Motors
+618,AC
+619,Alexander Dennis
+620,Apex Motors
+621,Ariel
+622,Aston Martin
+623,Atalanta Motors
+624,BAC
+625,Bentley
+626,Bowler
+627,Caterham
+628,David Brown Automotive
+629,Ginetta
+630,GKD
+631,Grinnall
+632,Healey
+633,Jaguar
+634,Lagonda
+635,Larmar
+636,Land Rover
+637,Lister
+638,Lotus
+639,McLaren
+640,MG
+641,Mini
+642,Modec
+643,Morgan
+644,Noble
+645,Radical Sportscars
+646,Rolls-Royce
+647,Ronart Cars
+648,TVR
+649,Ultima Sports
+650,Vauxhall
+651,Westfield
+652,Adam's Brothers
+653,AEC
+654,Allard
+655,Alvis
+656,Austin
+657,Austin-Healey
+658,British Leyland
+659,Bristol
+660,Daimler
+661,Donald Healey
+662,Elva
+663,Gordon Keeble
+664,Hillman
+665,Humber
+666,Jensen
+667,Jowett
+668,Lanchester
+669,Marcos
+670,Morris
+671,Panther Westwinds
+672,Reliant Motors
+673,Riley
+674,Rootes
+675,Rover
+676,Sharps Commercials Ltd
+677,Singer
+678,Standard
+679,Sunbeam
+680,Trident Cars
+681,Triumph
+682,Trojan
+683,Wolseley
+684,All American Racers
+685,AM General
+686,Anteros Coachworks
+687,Aptera
+688,Arcimoto
+689,Autocar
+690,Bremach
+691,Buick
+692,Cadillac
+693,Callaway
+694,Canoo
+695,Chevrolet
+696,Chrysler
+697,Detroit Electric
+698,Dodge
+699,E-Z-GO
+700,ElDorado
+701,ENC
+702,Falcon Motorsports
+703,Faraday
+704,FCA
+705,Fisker
+706,Ford
+707,Freightliner
+708,Gillig
+709,GM
+710,Google
+711,GEM
+712,GMC
+713,Hennessey
+714,Jeep
+715,Karma
+716,Kenworth
+717,Lincoln
+718,Lordstown Motors
+719,Lucid Motors
+720,Mack
+721,MCI
+722,Navistar
+723,Nikola Motor
+724,Oshkosh
+725,Panoz
+726,Peterbilt
+727,Pierce
+728,Polaris
+729,Proterra
+730,Ram
+731,RAESR
+732,Rezvani Motors
+733,Rivian
+734,Rossion
+735,Saleen
+736,SCG
+737,Shelby
+738,SRT
+739,SSC
+740,Tesla
+741,Thomas Built Buses
+742,Trion Supercars
+743,VLF Automotive
+744,Western Star
+745,Workhorse
+746,Adams-Farwell
+747,Alco
+748,AMC
+749,Amplex
+750,Apollo
+751,Apperson
+752,Aptera
+753,ArBenz
+754,Auburn
+755,Avanti Motor Company
+756,Baker Electric
+757,Bates
+758,Brush
+759,Cartercar
+760,Chalmers
+761,Chandler
+762,Chaparral Cars
+763,Checker
+764,Clénet
+765,Cole
+766,Columbia
+767,Continental
+768,Cord
+769,Crawford
+770,Crosley
+771,Cutting
+772,Daniels
+773,Davis
+774,Devon
+775,DeLorean
+776,DeSoto
+777,Diamond Reo Trucks
+778,Doble
+779,Dorris
+780,Dort
+781,Duesenberg
+782,Durant
+783,Dymaxion
+784,Eagle
+785,Edsel
+786,Elgin
+787,Essex
+788,Excalibur
+789,Flint
+790,Frazer
+791,Frontenac
+792,Gardner
+793,Geo
+794,Graham-Paige
+795,Grumman
+796,Haynes
+797,Hudson
+798,Hummer
+799,Hupmobile
+800,Hupp-Yeats
+801,Imperial
+802,International Harvester
+803,Inter-State
+804,Jackson
+805,Jeffery
+806,Kaiser
+807,King
+808,Kissel
+809,Kline Kar
+810,Knox
+811,LaFayette
+812,Laforza
+813,Lambert
+814,LaSalle
+815,Lexington
+816,Local
+817,Locomobile
+818,Lozier
+819,Lyons-Knight
+820,Marmon
+821,Marmon
+822,Marmon-Herrington
+823,Maxwell
+824,McFarlan
+825,Mercury
+826,Mitchell
+827,Monarch
+828,Monroe
+829,Moon
+830,Mosler
+831,Nash
+832,National
+833,Nyberg
+834,Oakland
+835,Oldsmobile
+836,Overland
+837,Packard
+838,Peerless
+839,Pierce-Arrow
+840,Pilot
+841,Plymouth
+842,Pontiac
+843,Pope-Toledo
+844,Pope-Tribune
+845,Premier
+846,Pungs Finch
+847,Rambler
+848,Rauch and Lang
+849,Regal
+850,REO
+851,Safari Coach
+852,Saturn
+853,Scion
+854,Scripps-Booth
+855,Simplex
+856,Speedwell
+857,Stanley
+858,Star
+859,Stearns-Knight
+860,Sterling
+861,Sterling Trucks
+862,Stevens-Duryea
+863,Stoddard-Dayton
+864,Studebaker
+865,Stutz
+866,TH!NK
+867,Thomas
+868,Tucker
+869,Vector
+870,VPG
+871,Velie
+872,Westcott
+873,White
+874,Willys
+875,Zimmer
+876,SAZ
+877,GM Uzbekistan
+878,Venirauto
+879,Thaco
+880,Mekong Auto
+881,VinFast
+882,World Auto
