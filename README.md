@@ -20,7 +20,7 @@ messages by calculating frequency counts.
 Calculate the frequency of co-mentions of brands.
 
 
-## D. Data And Analytics Consulting Summer Internship
+## D.
 Clean the posts by removing unnecessary words and find the 5 most
 frequently mentioned attributes of cars in the discussions.
 
